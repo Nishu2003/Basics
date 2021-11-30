@@ -18,7 +18,7 @@ class emp1{
 		System.out.println("Name : "+name);
 		System.out.println("Year of Joining : "+year_of_joining);
 		System.out.println("Salary : $ "+salary);
-		System.out.println("Address : $ "+address);
+		System.out.println("Address :  "+address);
 	}
 	
 	//FOR EMPLOYEE 2
@@ -31,7 +31,7 @@ class emp1{
 		System.out.println("Name : "+name);
 		System.out.println("Year of Joining : "+year_of_joining);
 		System.out.println("Salary : $ "+salary);
-		System.out.println("Address : $ "+address);
+		System.out.println("Address :  "+address);
 	}
 	
 	//FOR EMPLOYEE 3
@@ -44,7 +44,7 @@ class emp1{
 		System.out.println("Name : "+name);
 		System.out.println("Year of Joining : "+year_of_joining);
 		System.out.println("Salary : $ "+salary);
-		System.out.println("Address : $ "+address);
+		System.out.println("Address : "+address);
 	}
 }
 
